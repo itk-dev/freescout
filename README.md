@@ -35,6 +35,8 @@ There are no minimum system requirements (CPU / RAM) – FreeScout will run on a
 
 ## Installation
 
+Follow the manual installation steps as descriped here:
+[Manual installation](https://github.com/freescout-helpdesk/freescout/wiki/Installation-Guide#82-manual-installation)
 
 ## Modules
 
